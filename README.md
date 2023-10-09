@@ -85,12 +85,13 @@ A avaliação na disciplina "Interface Web com HTML e CSS" será baseada nos seg
 1. **Avaliação Teórica (50 Pontos)**
    - Data da Avaliação: 27/11/2023
    - Avaliação escrita sobre os temas estudados na disciplina.
-   - Total de pontos: 50.
+   - Total de pontos: 50
 
 2. **Projeto Prático de Desenvolvimento Web (50 Pontos)**
    - O Projeto Prático será avaliado com base nos seguintes critérios:
      - Para cada um dos itens desenvolvidos será atribuída uma nota de 1 a 10. Por exemplo: João cumpriu todos os 3 itens obrigatórios e implementou 3 itens opcionais. As notas em cada um dos itens foi 7, 8, 10, 10, 3, 5. A nota total final de João é 43.
      - **Nota Máxima:** A nota máxima atingida no projeto é de 50 pontos, mesmo que o total dos pontos somados nos itens seja maior do que 50.
+     - **Data de entrega dos fontes e apresentação do trabalho:** 11/12/2023 
 
 Cada aluno receberá uma pontuação de acordo com a conclusão e qualidade do projeto prático, levando em consideração tanto os itens obrigatórios quanto os opcionais. As notas serão somadas para determinar a pontuação total da disciplina.
 
