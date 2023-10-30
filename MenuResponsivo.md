@@ -4,7 +4,7 @@ Neste exercício, você criará um menu de navegação responsivo que se adapta 
 
 ## Instruções
 
-1. Crie um arquivo HTML chamado `menu.html` e um arquivo CSS chamado `estilo.css`.
+1. Insira uma seção de menu no arquivo da página pessoal.
 
 2. No arquivo HTML, crie uma estrutura básica de página com um cabeçalho (título da página) e uma barra de navegação.
 
